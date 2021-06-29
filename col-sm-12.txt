@@ -1,0 +1,77 @@
+ <!-- <div class="container slider">
+  <div class="row">
+    <div class=" col-sm-12 d-none  d-lg-none d-sx-none d-md-none d-sm-block center ">
+      <div class="header">
+        <h6>News</h6>
+       </div>
+      <div class="news">
+        <div class="news-date">
+          <p>9th January 2021</p>
+        </div>
+        <div class="row">
+          <div class=" col-sm-4 news-img">
+            <img src="./img/chess.jpg" alt="">
+          </div>
+          <div class="col-sm-8 news-info">
+            <div class="news-head">
+              <h6>MUJIB Centenary Fide Chess Compltetion</h6>
+            </div>
+            <div class="news-p">
+              <p>Mr. Md Shafiqul Islam, BPM (BAR), Commissioner, Dhaka Metropolitan Police, inaugurated of the Mujib Birth 
+                Centenary Invitational FIDE Rating Chess Tournament 2021, 
+                as chief guest. General Shahidullah Chowdhury, ndc (Retd.)</p>
+            </div>
+          </div>
+          <div class="news-p">
+            <p> Executive Director, Abul Khair Group were present as a special guest. K M Shahidullah Vice President of Bangladesh 
+              Chess Federation and Chairman, Tournament Committee presided over the ceremony and Syed Shahab Uddin, General
+              Secretary of Bangladesh Chess Federation and President,
+               FIDE Zone-3.2 gave speech, four Executive Member of 
+              Bangladesh Chess Federation Moniruzzaman Palash, Jakir Ahmed, IO Mahmuda Hoque Chwodhury Moly and Sajol 
+              Mahmud were present in the ceremony</p>
+          </div>
+        
+        </div>
+        <div class="more-btn">
+          <a href="#">More</a>
+        </div>
+      </div>
+      <div class="news">
+        <div class="news-date">
+          <p>9th January 2021</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-4 news-img">
+            <img src="./img/chess.jpg" alt="">
+          </div>
+          <div class="col-lg-8 col-md-8 col-sm-8 news-info">
+            <div class="news-head">
+              <h6>MUJIB Centenary Fide Chess Compltetion</h6>
+            </div>
+            <div class="news-p">
+              <p>Mr. Md Shafiqul Islam, BPM (BAR), Commissioner, Dhaka Metropolitan Police, inaugurated of the Mujib Birth 
+                Centenary Invitational FIDE Rating Chess Tournament 2021, 
+                as chief guest. General Shahidullah Chowdhury, ndc (Retd.)</p>
+            </div>
+          </div>
+          <div class="news-p">
+            <p> Executive Director, Abul Khair Group were present as a special guest. K M Shahidullah Vice President of Bangladesh 
+              Chess Federation and Chairman, Tournament Committee presided over the ceremony and Syed Shahab Uddin, General
+              Secretary of Bangladesh Chess Federation and President,
+               FIDE Zone-3.2 gave speech, four Executive Member of 
+              Bangladesh Chess Federation Moniruzzaman Palash, Jakir Ahmed, IO Mahmuda Hoque Chwodhury Moly and Sajol 
+              Mahmud were present in the ceremony</p>
+          </div>
+        
+        </div>
+        <div class="more-btn">
+          <a href="#">More</a>
+        </div>
+      </div>
+      
+      
+    </div>
+  
+  </div>
+  
+   </div> -->
